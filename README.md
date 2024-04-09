@@ -1,6 +1,3 @@
-Claro, aqui está um exemplo de README.md para o seu projeto de portfólio simplificado:
-
-```
 # Meu Portfolio Simplificado
 
 Bem-vindo ao meu portfolio simplificado! Este é um projeto que desenvolvi para apresentar algumas informações básicas sobre mim e meus trabalhos. Este portfolio é uma versão simplificada, projetada para ser direta e fácil de navegar.
